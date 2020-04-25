@@ -259,6 +259,7 @@ body {
 }
 
 .row.contact-form {
+  width: 100%;
   padding: 6%;
   padding-top: 4%;
 }

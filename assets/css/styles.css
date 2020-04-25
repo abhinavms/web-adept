@@ -60,7 +60,8 @@ body {
 
 .title2 {
   font-weight: 800;
-  font-size: 40px;
+  font-size: 45px;
+  margin-top: 7%;
 }
 
 .subtitle2 {
@@ -70,5 +71,11 @@ body {
 
 #section2-title-1 {
   padding: 7%;
+  padding-bottom: 0%;
+}
+
+.about-container-heading {
+  font-weight: bold;
+  font-size: 35px;
 }
 

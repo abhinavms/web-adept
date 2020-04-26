@@ -317,3 +317,18 @@ body {
   background-color: rgba(0,0,0,0.28);
 }
 
+.navbar {
+  -webkit-transition: background-color 500ms linear;
+  -moz-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+
+.scrolled {
+  background-color: rgba(0,0,0,0.75);
+  -webkit-transition: background-color 500ms linear;
+  -moz-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+

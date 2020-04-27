@@ -55,24 +55,20 @@ body {
 
 #section2 {
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
+  padding-top: 4%;
+  padding-bottom: 4%;
 }
 
 .title2 {
   font-weight: 800;
   font-size: 45px;
-  margin-top: 7%;
 }
 
 .subtitle2 {
   font-weight: 300;
   font-size: 20px;
   color: #7d8285;
-}
-
-#section2-title-1 {
-  padding: 7%;
-  padding-bottom: 0%;
 }
 
 .about-container-heading {
@@ -83,17 +79,13 @@ body {
 #section3 {
   width: 100%;
   height: 100vh;
+  padding-top: 4%;
+  padding-bottom: 4%;
 }
 
 .title3 {
   font-weight: 800;
   font-size: 45px;
-  margin-top: 3%;
-}
-
-#section3-title-2 {
-  padding: 5%;
-  padding-bottom: 0%;
 }
 
 #services {
@@ -107,6 +99,8 @@ body {
 #section4 {
   width: 100%;
   min-height: 100vh;
+  padding-top: 4%;
+  padding-bottom: 4%;
 }
 
 .photo-gallery {
@@ -146,7 +140,6 @@ body {
 
 .photo-gallery h2 {
   font-weight: 800;
-  padding-top: 20%;
   color: White;
   font-size: 45px;
 }
@@ -155,7 +148,6 @@ body {
   padding: 50px 0;
   background-color: #000000;
   color: #ffffff;
-  margin-top: 7%;
 }
 
 .footer-web-adept h3 {
@@ -245,11 +237,10 @@ body {
 
 #section5 {
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .text-center.title4 {
-  padding-top: 7%;
   font-size: 45px;
   font-weight: 800;
 }
@@ -262,7 +253,7 @@ body {
 .row.contact-form {
   width: 100%;
   padding: 6%;
-  padding-top: 1%;
+  padding-top: 4%;
 }
 
 .contact-form-input {
@@ -270,22 +261,25 @@ body {
   margin-top: 2%;
   background-color: #ffffff;
   border-radius: 30px;
-  padding: 15px;
+  padding: 12px;
   margin-bottom: 2%;
   padding-left: 0px;
   border-top: 0 !important;
-  font-size: 14px;
+  font-size: 20px;
   border-right: 0 !important;
   border-left: 0 !important;
   background-color: transparent !important;
   border-radius: 0 !important;
   color: rgb(255,255,255);
   border: 1px solid #575757;
+  font-weight: 300;
 }
 
 #section3-5 {
   width: 100%;
   min-height: 100vh;
+  padding-top: 4%;
+  padding-bottom: 4%;
 }
 
 #section3-5-heading {
@@ -297,8 +291,8 @@ body {
   padding: 15%;
   width: 100%;
   height: 100%;
-  padding-top: 4%;
-  padding-bottom: 4%;
+  padding-top: 0%;
+  padding-bottom: 0%;
 }
 
 #section3-5-subheading {

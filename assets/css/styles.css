@@ -368,3 +368,15 @@ a.divLink {
   color: WHITE;
 }
 
+.brands div {
+  display: block;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.brands div img {
+  display: inline-block;
+  margin: 10px 20px;
+  vertical-align: middle;
+}
+

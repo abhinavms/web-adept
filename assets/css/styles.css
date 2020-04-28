@@ -275,6 +275,7 @@ body {
   color: rgb(255,255,255);
   border: 1px solid #575757;
   font-weight: 300;
+  outline: none;
 }
 
 #section3-5 {
@@ -378,5 +379,12 @@ a.divLink {
   display: inline-block;
   margin: 10px 20px;
   vertical-align: middle;
+}
+
+.contact-form-input:focus {
+  background-color: transparent !important;
+  border-radius: 0 !important;
+  color: rgb(255,255,255);
+  border: 1px solid #ffffff;
 }
 
